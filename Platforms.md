@@ -21,3 +21,4 @@
 * **PLTY** Plentymarkets
 * **ACT**  Actindo
 * **JTL**  JTL WaWi
+* **TM3**  TM3 Logistiksoftware
