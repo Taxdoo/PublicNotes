@@ -25,3 +25,4 @@
 * **ANS**  AnSyS
 * **UNI** Unicorn (JTL)
 * **IDE** Idealo
+* **MWS** Marketplace Webservices (Amazon)
