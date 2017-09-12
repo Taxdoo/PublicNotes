@@ -28,3 +28,4 @@
 * **MWS** Marketplace Webservices (Amazon)
 * **ABY** Afterbuy
 * **ELM** Elmar / elm@r
+* **LEN** Lenando
