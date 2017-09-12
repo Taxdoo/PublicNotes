@@ -27,3 +27,4 @@
 * **IDE** Idealo
 * **MWS** Marketplace Webservices (Amazon)
 * **ABY** Afterbuy
+* **ELM** Elmar / elm@r
