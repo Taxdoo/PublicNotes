@@ -29,3 +29,4 @@
 * **ABY** Afterbuy
 * **ELM** Elmar / elm@r
 * **LEN** Lenando
+* **POS** Point of sale
