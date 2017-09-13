@@ -30,3 +30,17 @@
 * **ELM** Elmar / elm@r
 * **LEN** Lenando
 * **POS** Point of sale
+* **YAT** Yatego
+* **KEL** Kelkoo
+* **S24** Shopping24
+* **RIC** Ricardo
+* **ZEN** Zentralverkauf.de
+* **OTTO** Otto
+* **GIM** Gimahhot
+* **BIL** Billiger.de
+* **SHR** ShopShare
+* **QUE** Quelle
+* **KLX** Kauflux
+* **H24** Home24
+* **ZAL** Zalando
+* **C24** Check24
