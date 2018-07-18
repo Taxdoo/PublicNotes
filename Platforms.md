@@ -44,3 +44,6 @@
 * **H24** Home24
 * **ZAL** Zalando
 * **C24** Check24
+* **SFY** Shopify
+* **REAL** Real.de
+* **CDI** CDiscount
