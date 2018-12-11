@@ -3,10 +3,12 @@
 * **EBY**  eBay
 * **AFN**  Fulfillment by Amazon
 * **MFN**  Fulfillment by Merchant (Amazon)
-* **PYPL** Paypal
+* **ABY** Afterbuy
 * **PLTY** Plentymarkets
 * **ACT**  Actindo
 * **JTL**  JTL WaWi
+* **BLB** Billbee
+* **PYPL** Paypal
 * **WEB**  Own webshop
 * **RAK**  Rakuten
 * **HIT**  Hitmeister
@@ -26,7 +28,6 @@
 * **UNI** Unicorn (JTL)
 * **IDE** Idealo
 * **MWS** Marketplace Webservices (Amazon)
-* **ABY** Afterbuy
 * **ELM** Elmar / elm@r
 * **LEN** Lenando
 * **POS** Point of sale
